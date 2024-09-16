@@ -76,6 +76,7 @@ body {
 #schedule-panel{
     background-color: whitesmoke;
     border-radius:10px;
+    padding-top:10px;
 }
 
 .social-icon{
